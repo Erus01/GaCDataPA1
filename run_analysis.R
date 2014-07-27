@@ -1,4 +1,4 @@
-#Merges sets
+#Merging sets
 setwd("~/Documents/GitHub/GaCDataPA1")
 trainData <- read.table("./data/train/X_train.txt")
 dim(trainData) # 7352*561
